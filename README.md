@@ -8,14 +8,8 @@ Roadmap Links:
 
 My Projects:
 
-### 📌 Project 1: Single Page CV
+# 📌 [Single Page ](single-page-cv/index.html)
 
-- [💻 View Project](Single-page-HTML-CV-Project/index.html)
-- [💻 Code](Single-page-HTML-CV-Project/)
-
-### 📌 Project 2: Basic HTML Website
-
-- [💻 View Project](Single-page-HTML-CV-Project/index.html)
-- [💻 Code](Single-page-HTML-CV-Project/)
+# 📌 [Basic HTML Website](basic-html-website/index.html)
 
 Started on 9/11/2025 - (´・ω・)

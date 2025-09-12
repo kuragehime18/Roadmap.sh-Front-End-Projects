@@ -1,7 +1,8 @@
-# Single-page HTML CV Project
-Project from Roadmap.sh. A single page HTML only CV
+# Roadmap.sh Front-End Project Compilation
+Projects from Roadmap.sh for Front-End ͏͏͏°.🍥
 
-Instructions to run the project:
-- Simply open it on your web browser.
+<a href="https://roadmap.sh/projects/single-page-cv"> Single page CV</a>
+<a href="https://roadmap.sh/projects/basic-html-website">Basic HTML website</a>
 
-Link: https://roadmap.sh/projects/single-page-cv
+
+Started on 9/11/2025 - (´・ω・)
